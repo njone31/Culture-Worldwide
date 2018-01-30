@@ -212,3 +212,6 @@
     </script>
   </body>
 </html>
+git add . 
+git commit -m "customizing index.html for AgilePhd"
+git push
